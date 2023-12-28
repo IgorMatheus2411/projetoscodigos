@@ -12,7 +12,7 @@
 	<!-- Adiciona o ícone do Bootstrap -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 	<!-- Adiciona o arquivo de estilo customizado -->
-	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="https://igormatheus2411.github.io/projetoscodigos/style.css">
 </head>
 <body>
 	<h2 class="titulo">Cadastrar-se</h2>
